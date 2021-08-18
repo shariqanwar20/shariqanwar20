@@ -31,7 +31,7 @@
 [<img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][blog]
 
 <p>
-  <a href="#"><img src="https://github-readme-stats-seven-pied.vercel.app/api?username=shariqanwar20&show_icons=true&count_private=true&theme=dark" width="450</a>
+  <a href="#"><img src="https://github-readme-stats-seven-pied.vercel.app/api?username=shariqanwar20&show_icons=true&count_private=true&theme=dark" width="450"</a>
 </p>
 
 
