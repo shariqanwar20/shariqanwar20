@@ -1,7 +1,12 @@
 ### Hi there 👋
 ### I am Shariq Anwar, Full Stack Serverless Developer from Pakistan :pakistan:
 
+##
+
 ## Website: https://shariqanwar.netlify.app/
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedIn]
+[linkedIn]: https://www.linkedin.com/in/shariqanwar20/
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
