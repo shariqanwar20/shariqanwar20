@@ -42,6 +42,7 @@
 <br />
 <br />
 
+<br />
 <p>
   <a href="#"><img src="https://github-readme-stats-one-lyart.vercel.app/api?username=shariqanwar20&show_icons=true&count_private=true&theme=dark" width="450"</a>
 </p>
